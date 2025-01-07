@@ -28,7 +28,7 @@ This project was developed by **Ashkan Bozorgzad**.
 
 ## Acknowledgments
 - The dataset is provided by [TU Graz](https://www.tugraz.at/index.php?id=22387).
-- Special thanks to TensorFlow and Keras for their tools and libraries, enabling robust model development.
+
 
 ## License
 This project is open-source and available under the MIT License.
